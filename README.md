@@ -1,5 +1,10 @@
 Hi 👋 My name is Jorge Caballero
-================================Fronted Developer-----------------I've been learning programming for 1 year now, I took a frontend developer course at Coderhouse. I learned HTML, CSS and JavaScript, I currently use React JS and I am constantly learning.* 🌍  I'm based in Buenos Aires, Argentina* 🖥️  See my portfolio at [Jorge Caballero - Portfolio](http://j-cportfolio.com)* ✉️  You can contact me at [jorge.caballero.98@outlook.com](mailto:jorge.caballero.98@outlook.com)* 🧠  I'm learning JavaScript and React JS* 🤝  I'm open to collaborating on Any type of project, do not hesitate to write or communicate with me!
+================================
+
+Fronted Developer
+-----------------
+
+I've been learning programming for 1 year now, I took a frontend developer course at Coderhouse. I learned HTML, CSS and JavaScript, I currently use React JS and I am constantly learning.* 🌍  I'm based in Buenos Aires, Argentina* 🖥️  See my portfolio at [Jorge Caballero - Portfolio](http://j-cportfolio.com)* ✉️  You can contact me at [jorge.caballero.98@outlook.com](mailto:jorge.caballero.98@outlook.com)* 🧠  I'm learning JavaScript and React JS* 🤝  I'm open to collaborating on Any type of project, do not hesitate to write or communicate with me!
 
 <a href="https://www.twitter.com/Jlc98_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Jlc98_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"/></a><a href="https://www.github.com/jorgecaballero98" target="_blank" rel="noreferrer"><img
